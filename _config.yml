@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: whale-max.github.io
+url: 
 date_format: "ordinal"
 title: whale-max
 subtitle: "打码改变世界"
