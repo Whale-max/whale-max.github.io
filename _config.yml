@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:whale-max.github.io
+baseurl: 
 url: whale-max.github.io
 date_format: "ordinal"
 title: whale-max
